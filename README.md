@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Guido 👋
 
-<!--
-**Warcod/warcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Born and based in Argentina (for now).
 
-Here are some ideas to get you started:
+I’m not a developer, but I write code sometimes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+My long-term dream? Owning a small estate in the Tuscan countryside, making wine and cheese.
+
+What does that have to do with TypeScript? No idea yet… but I’ll figure it out.
+
+I’ve played more hours of **Dark Souls** and **League of Legends** than I’m willing to admit.
+
+While some people were buying BTC in 2010, I was downloading **The Sims** from Softonic.
+
+---
+
 - ⚡ Fun fact: ...
 -->
