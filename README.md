@@ -1,10 +1,10 @@
-# Hi, I'm Guido 👋
+### Hi, I'm Guido 👋
 
 Born and based in Argentina (for now).
 
 I’m not a developer, but I write code sometimes.
 
-My long-term dream? Owning a small estate in the Tuscan countryside, making wine and cheese.
+My long-term dream? Owning a small village in the Tuscan, making wine and cheese.
 
 What does that have to do with TypeScript? No idea yet… but I’ll figure it out.
 
