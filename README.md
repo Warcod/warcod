@@ -1,4 +1,4 @@
-### Hi, I'm Guido 👋
+Hi, I'm Guido 👋
 
 Born and based in Argentina (for now).
 
